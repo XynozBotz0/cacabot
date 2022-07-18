@@ -14,7 +14,7 @@ global.APIKeys = {
 
 // setting 
 global.autoread = false // auto read pesan / message
-global.autobio = true 
+global.autobio = false 
 
 //language
 //Available in indonesia & english
@@ -31,10 +31,10 @@ global.github = "https://XynozBotz.github.io/" //bebas
 global.email = "kasstore@gmail.com" //bebas
 global.region = "Indonesia" //bebas
 global.timezone = 'Asia/Jakarta' //  timezone wib
-global.owner = ["6285710829783","6285710829783"] //ganti agar fitur owner bisa di gunakan
-global.ownernomer = "6285710829783" // nomor wa kalian
-global.ownernomerr = "+6285710829783" //nmr wa kalian
-global.thumbnail = "./image/20220711_002004.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
+global.owner = ["6281525872199","6281525872199"] //ganti agar fitur owner bisa di gunakan
+global.ownernomer = "6281525872199" // nomor wa kalian
+global.ownernomerr = "+6281525872199" //nmr wa kalian
+global.thumbnail = "./image/IMG-20220718-WA0347.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
 global.donasi = "./image/20220712_133722.jpg" // foto donasi di folder image
 global.background_welcome="https://telegra.ph/file/90a931648de597820bc08.jpg" // maks size 30kb, agar welcome image nya tdk delay
 
