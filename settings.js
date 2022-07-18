@@ -23,23 +23,23 @@ global.language = indonesia  //change indonesia to english if you don't understa
 
 
 // Other
-global.botname = "XynozBotz" //namabot kalian
-global.ownername= "Xynoz" //nama kalian
+global.botname = "CacaStore" //namabot kalian
+global.ownername= "Kas Store" //nama kalian
 global.myweb ="https://api.zeeoneofc.xyz" //bebas asal jan hapus
-global.youtube = "https://youtube.com/c/XynozBotz" //bebas asal jan hapus
+global.youtube = "https://youtube.com/c/Xynozbotz" //bebas asal jan hapus
 global.github = "https://XynozBotz.github.io/" //bebas
-global.email = "xynozbotz@gmail.com" //bebas
+global.email = "kasstore@gmail.com" //bebas
 global.region = "Indonesia" //bebas
 global.timezone = 'Asia/Jakarta' //  timezone wib
-global.owner = ["6283839200413","6283839200413"] //ganti agar fitur owner bisa di gunakan
-global.ownernomer = "6283839200413" // nomor wa kalian
-global.ownernomerr = "+6283839200413" //nmr wa kalian
+global.owner = ["6285710829783","6285710829783"] //ganti agar fitur owner bisa di gunakan
+global.ownernomer = "6285710829783" // nomor wa kalian
+global.ownernomerr = "+6285710829783" //nmr wa kalian
 global.thumbnail = "./image/20220711_002004.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
 global.donasi = "./image/20220712_133722.jpg" // foto donasi di folder image
 global.background_welcome="https://telegra.ph/file/90a931648de597820bc08.jpg" // maks size 30kb, agar welcome image nya tdk delay
 
-global.packname = '© XynozBotz' //sticker wm ubah
-global.author = 'Di Buat Oleh XynozBotz' //sticker wm ganti nama kalian
+global.packname = '© CacaBotz' //sticker wm ubah
+global.author = 'Di Buat Oleh Kas Store' //sticker wm ganti nama kalian
 global.sessionName = 'session'
 global.typemenu = 'document'
 global.flaming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
